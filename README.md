@@ -12,8 +12,12 @@
 
 ###
 
-![image1](/screenshoots/image1.png)
+<p align="center">
+  <img src="/screenshoots/image1.png" />
+</p>
 
 ###
 
-![image2](/screenshoots/image2.png)
+<p align="center">
+  <img src="/screenshoots/image2.png" />
+</p>
